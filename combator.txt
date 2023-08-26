@@ -1,0 +1,15 @@
+"combator"
+{
+	"base"				"base"
+	"title"				"Combator"
+	"maps"				"^cbt_"
+	"category"			"pve|pvp"
+	"menusystem"		"1"
+
+	"author_name"		"Aralthus"
+	"author_email"		"aralthis@protonmail.com"
+
+	"settings"
+	{
+	}
+}
